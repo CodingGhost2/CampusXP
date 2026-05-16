@@ -1,4 +1,5 @@
-![Uploading ScreenRecording_04-13-2026 22-22-39_1.gif…]()
+<img width="400" height="866" alt="ScreenRecording_04-13-2026 22-22-39_1" src="https://github.com/user-attachments/assets/470d8c4f-bcfd-49f4-9e6c-fc5925f33b21" />
+
 
 
 # Campus XP
