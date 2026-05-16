@@ -1,0 +1,56 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Secrets
+.env
+.env.*
+!.env.example
+.envrc
+.secrets
+secrets.*
+*.secret
+*.credentials
+.npmrc
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.mobileprovision
+
+# local env files
+.env*.local
+
+# debug/logs/temp
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+logs/
+tmp/
+temp/
+
+# build/test outputs
+coverage/
+.nyc_output/
+*.tsbuildinfo
+
+# IDE/cache
+.cache/
+.turbo/
+.idea/
+.vscode/
+.DS_Store
+
+# generated native folders
+/ios
+/android
+
+# local docs/notes
+/Docs
