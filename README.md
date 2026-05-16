@@ -1,3 +1,6 @@
+![Uploading ScreenRecording_04-13-2026 22-22-39_1.gif…]()
+
+
 # Campus XP
 
 A gamified study planner built with Expo + React Native + Supabase.
